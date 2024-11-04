@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>inekf</name>
+  <version>0.0.0</version>
+  <description>The invariant-ekf package</description>
+
+  <maintainer email="ross@todo.todo">ross</maintainer>
+
+  <license>TODO</license>
+
+  <depend>boost</depend>
+  <depend>eigen3</depend>
+  <depend>Threads</depend>
+  <buildtool_depend>ament_cmake_ros</buildtool_depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
